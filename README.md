@@ -1,4 +1,4 @@
 # quantum_computing
-Experiment with Qiskit and online IDE https://lab.quantum-computing.ibm.com/
+Experiment with Qiskit https://lab.quantum-computing.ibm.com/
 
 [Adder circuit](./AdderCircuit.ipynb)
