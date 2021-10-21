@@ -6,3 +6,5 @@ Experiment with Qiskit https://lab.quantum-computing.ibm.com/
 2- [Qubit states](./qubitStates.ipynb)
 
 3- [Single qubit gates](./singleQubitGates.ipynb)
+
+4- [Multiple qubits](./multipleQubits.ipynb)
