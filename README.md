@@ -10,3 +10,5 @@ Experiment with Qiskit https://lab.quantum-computing.ibm.com/
 4- [Multiple qubits](./multipleQubits.ipynb)
 
 5- [Phase Kickback] (./phaseKickback.ipynb)
+
+5- [More circuit identities] (./morecircuitIdentities.ipynb)
