@@ -11,4 +11,4 @@ Experiment with Qiskit https://lab.quantum-computing.ibm.com/
 
 5- [Phase Kickback] (./phaseKickback.ipynb)
 
-5- [More circuit identities] (./morecircuitIdentities.ipynb)
+5- [More circuit identities] (./moreCircuitIdentities.ipynb)
