@@ -11,4 +11,6 @@ Experiment with Qiskit https://lab.quantum-computing.ibm.com/
 
 5- [Phase Kickback] (./phaseKickback.ipynb)
 
-5- [More circuit identities] (./moreCircuitIdentities.ipynb)
+6- [More circuit identities] (./moreCircuitIdentities.ipynb)
+
+7- [Grover Algorithm] (./groverAlgorithm.ipynb)
